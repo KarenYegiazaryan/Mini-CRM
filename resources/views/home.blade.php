@@ -6,7 +6,7 @@
                             {{ session('status') }}
                         </div>
                     @endif
-                    <img src="{{ asset('storage/logos/minicrm.jpg') }}" alt="Company Logo" width="100%">
+                    <img src="{{ asset('build/assets/home_img/minicrm.jpg') }}" alt="Image" width="100%">
 @endsection
 
 
