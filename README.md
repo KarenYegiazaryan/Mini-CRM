@@ -1,6 +1,7 @@
 After downloading the zip, you need to do the following steps
 
 1.composer install 
+
 2.cp .env.example .env
 3.create a database and include the name in the .env
 4.php artisan key:generate
